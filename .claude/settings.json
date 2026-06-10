@@ -1,23 +1,9 @@
 {
-  "hooks": {
-    "SessionStart": [
-      {
-        "hooks": [
-          {
-            "type": "command",
-            "command": "cd \"C:\\Users\\trent\\caveman-codex\" && caveman check",
-            "statusMessage": "Running Caveman check...",
-            "timeout": 60
-          }
-        ]
-      }
-    ]
-  },
   "extraKnownMarketplaces": {
     "caveman": {
       "source": {
-        "source": "git",
-        "url": "https://github.com/JuliusBrussee/caveman.git"
+        "source": "github",
+        "repo": "JuliusBrussee/caveman"
       }
     }
   }
