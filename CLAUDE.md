@@ -192,3 +192,22 @@ These elements appear in `MASTER_CANON_BIBLE.md` and `QUARANTINE_FIELD_MANUAL.md
 - **Canonical PRD:** 27 numbered documents in `STEMS_MVP_PRD/` (00-27)
 - **Support references:** Standalone .md files in the root for terminology, lore, and design audit
 - **Not for code implementation:** Future code will reference these specs, but the code repo will be separate
+
+## Skill routing
+
+When the user's request matches an available skill, invoke it via the Skill tool. When in doubt, invoke the skill.
+
+Key routing rules:
+- Product ideas/brainstorming → invoke /office-hours
+- Strategy/scope → invoke /plan-ceo-review
+- Architecture → invoke /plan-eng-review
+- Design system/plan review → invoke /design-consultation or /plan-design-review
+- Full review pipeline → invoke /autoplan
+- Bugs/errors → invoke /investigate
+- QA/testing site behavior → invoke /qa or /qa-only
+- Code review/diff check → invoke /review
+- Visual polish → invoke /design-review
+- Ship/deploy/PR → invoke /ship or /land-and-deploy
+- Save progress → invoke /context-save
+- Resume context → invoke /context-restore
+- Author a backlog-ready spec/issue → invoke /spec
