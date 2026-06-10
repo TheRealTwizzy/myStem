@@ -1,0 +1,14 @@
+# Claude Code system files
+.agents/
+.claude/skills/
+skills-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
