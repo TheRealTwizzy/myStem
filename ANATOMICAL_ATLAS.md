@@ -114,6 +114,34 @@
 
 ---
 
+### Ribstag
+**Anatomy root:** Rib cage (costae)
+**Method:** Cavity Expansion / Ossification hybrid
+**Developmental lineage:** Open-terrain specimens raised in wide grazing environments with sustained thoracic pressure; rib arches expand outward and upward like antler-analogues along the dorsal surface
+**Habitat:** Open plains, grassland margins, grazing territory
+**Scale:** Deer-sized (young) to large elk-sized (mature)
+**Feeding:** Vegetation, fungi, mineral soil; peaceful herd grazers
+**Ecological role:** Mid-level recycler; breaks down plant matter and aerates compacted soil; their rib-arches vibrate in storms and produce low warning tones audible to other Stems at range
+**Threat level:** Passive (Territorial in older males during storm conditions)
+**Known regional variants:** Storm-plain variants with more resonant rib-arch chambers; confirmed
+**Unconfirmed reports:** Ribstag herds observed gathering before major seismic events; whether rib-vibration acts as an early-warning system is under study
+
+---
+
+### Knuckleback
+**Anatomy root:** Knuckles (metacarpophalangeal joints)
+**Method:** Ossification
+**Developmental lineage:** Swamp and flood-margin environments with sustained impact and roll-pressure on dorsal surfaces; bony protrusions develop across the back and shoulders
+**Habitat:** Swamps, marshland, coastal shallows, flood plains; amphibious
+**Scale:** Large dog to compact bear-sized
+**Feeding:** Fish, small wetland animals, submerged carrion; smashes obstacles by rolling body weight forward
+**Ecological role:** Wetland disruptor; breaks apart root mats and compacted debris, opening channels for aquatic organisms
+**Threat level:** Territorial
+**Known regional variants:** Coastal variants (salt-tolerant; wider protrusion spacing)
+**Unconfirmed reports:** Nearly blind; hunts entirely by sound and chemical sensing; confirmed in field observations
+
+---
+
 ## Land Forms — Sensory Overgrowth
 
 ---
@@ -143,6 +171,34 @@
 **Threat level:** Predatory
 **Known regional variants:** Urban Laryngraves (extensive vocabulary from dense human environments); forest Laryngraves (animal calls, natural sounds)
 **Unconfirmed reports:** Multiple field reports of Laryngraves reproducing the exact voice of recently deceased individuals. Reports are consistent across unrelated observers.
+
+---
+
+### Tonguelope
+**Anatomy root:** Tongue
+**Method:** Sensory Overgrowth
+**Developmental lineage:** Open-plain prey specimens in high-predator environments; sensory tongue tissue develops extraordinary length and chemical sensitivity as primary survival organ
+**Habitat:** Open plains, grassland, transition zones
+**Scale:** Small deer to large dog-sized; built for speed
+**Feeding:** Vegetation, fungi, small invertebrates sampled through tongue contact
+**Ecological role:** Prey species; their constant tongue-testing of the environment leaves chemical signal traces that other Stems read as environmental information
+**Threat level:** Passive (flee response; rarely defensive)
+**Known regional variants:** Forest margin variants (tongue adapted for moisture rather than open-air chemical sampling)
+**Unconfirmed reports:** Tonguelopes consistently flee several minutes before a predator enters an area; whether this is chemical detection or Choir-adjacent signaling is not established
+
+---
+
+### Lobechildren
+**Anatomy root:** Earlobe / brain lobe
+**Method:** Sensory Overgrowth
+**Developmental lineage:** Dense acoustic environments with isolation pressure; auditory processing structures dominate; rounded head lobes grow heavy and low-hanging
+**Habitat:** Forests, abandoned buildings, cave mouths, acoustic transition zones
+**Scale:** Coyote-sized; moves low and quietly
+**Feeding:** Small animals, eggs, scavenged remains; lures prey using accurate sound mimicry
+**Ecological role:** Mid-level acoustic ambush predator; overlaps ecologically with Laryngraves but operates at smaller scale
+**Threat level:** Predatory
+**Known regional variants:** Urban variants with extensive vocabulary from human settlements (confirmed post-breach)
+**Unconfirmed reports:** Lobechildren observed waiting outside dwellings and mimicking the specific sounds that cause occupants to open doors; multiple independent field accounts
 
 ---
 
@@ -192,6 +248,38 @@
 
 ---
 
+## Flying Forms — Ossification / Other
+
+---
+
+### Wristling
+**Anatomy root:** Wrist (carpals)
+**Method:** Membrane Extension
+**Developmental lineage:** Canopy-edge and open-air scavenger environments near larger organisms; wrist joints develop rotating articulation and membrane extension for hovering
+**Habitat:** Near larger Stem adults; carrion zones; forest edges
+**Scale:** Crow-sized to hawk-sized
+**Feeding:** Shed skin, parasites, soft remains; strips carcasses in swarms; gathers around larger predators to feed on leavings
+**Ecological role:** Aerial scavenger and parasite controller; their presence often signals a large predator or corpse nearby
+**Threat level:** Passive individually; Territorial in swarms
+**Known regional variants:** None confirmed; swarm density varies considerably by food availability
+**Unconfirmed reports:** Wristling swarms have stripped a large animal carcass to bone in under four minutes; confirmed by field teams
+
+---
+
+### Jawhawk
+**Anatomy root:** Jaw (mandible)
+**Method:** Ossification
+**Developmental lineage:** Aerial predators in open environments with sustained prey-capture pressure; lower facial structures harden and extend forward into a chest-mounted jaw-like structure
+**Habitat:** Open sky, cliff margins, urban air columns
+**Scale:** Large raptor to small aircraft wingspan
+**Feeding:** Aerial prey; the chest-jaw opens sideways during a dive to snatch and fold around prey; one of the few forms documented to actively hunt Stemlings
+**Ecological role:** Aerial apex in its size range; controls aerial and ground-level small-prey populations
+**Threat level:** Predatory
+**Known regional variants:** Cliff variants (heavier bone structure for impact-hunting); confirmed
+**Unconfirmed reports:** Jawhawks targeting Stemlings specifically, while leaving other prey at similar scale; whether this is learned behavior or anatomical preference is not established
+
+---
+
 ## Aquatic Forms — Cavity Expansion
 
 ---
@@ -235,6 +323,38 @@
 **Threat level:** Apex
 **Known regional variants:** None confirmed; deep ocean survey is incomplete
 **Unconfirmed reports:** Coastal cults that worship Navelids as oceanic gods; some communities deliberately sink offerings into Navelid territory. Whether this constitutes a relationship is unknown.
+
+---
+
+## Aquatic Forms — Connective-Tissue / Other
+
+---
+
+### Throat
+**Anatomy root:** Throat (pharynx / laryngopharynx)
+**Method:** Cavity Expansion
+**Developmental lineage:** Deep river and flooded-cave environments with sustained suction-pressure; pharyngeal structures elongate and the body adapts to pulse-propelled swimming
+**Habitat:** Deep rivers, flooded tunnels, underground water systems
+**Scale:** Eel-sized (young) to large python-sized (mature)
+**Feeding:** Inhales water and prey together; suction drag pulls victims inward; does not bite; calls sound like someone speaking underwater
+**Ecological role:** Deep freshwater predator; controls populations of fish, invertebrates, and anything that falls into dark water
+**Threat level:** Predatory
+**Known regional variants:** Tidal variants adapted to salt-fresh mixing zones; confirmed
+**Unconfirmed reports:** Throat calls have been mistaken for drowning human voices by field teams; multiple incidents recorded
+
+---
+
+### Tendrench
+**Anatomy root:** Tendons (connecting tissues)
+**Method:** Connective-Tissue Dominance
+**Developmental lineage:** Deep ocean environments with sustained drag and tension pressure; tendon-cord structures overdevelop into long rope-like appendages adapted for open-water hunting
+**Habitat:** Open ocean, deep coastal water, submerged structures
+**Scale:** Ship-spanning; mature specimens rival mythological kraken accounts
+**Feeding:** Binds, whips, and pulls prey with tendon-cords; wraps around vessels and flexes until hull integrity fails; does not bite in the conventional sense
+**Ecological role:** Deep-ocean apex; its presence clears large prey corridors
+**Threat level:** Apex
+**Known regional variants:** None confirmed at full maturity
+**Unconfirmed reports:** A mature Tendrench can wrap around a ship and flex until the hull splits; multiple vessel losses attributed to Tendrench activity without confirmed sightings
 
 ---
 
@@ -284,6 +404,34 @@
 
 ---
 
+### Gumling
+**Anatomy root:** Gums (gingival tissue)
+**Method:** Cavity Expansion
+**Developmental lineage:** Wet cave environments with sustained moisture and contact pressure; oral mucosal tissue spreads outward and colonizes surface area; individual forms are small but rarely solitary
+**Habitat:** Cave walls, wet tunnel linings, damp underground surfaces
+**Scale:** Hand-sized individuals; colony mats can cover entire cave systems
+**Feeding:** Secretes adhesive mucosal slime; dissolves and absorbs anything that settles against the colony surface; not aggressive — simply closes around contact
+**Ecological role:** Cave-wall colonizer and decomposer; keeps cave surfaces nutritionally rich for other cave forms
+**Threat level:** Passive (Environmental in large colonies)
+**Known regional variants:** None confirmed; colony density varies
+**Unconfirmed reports:** A cave wall fully colonized by Gumlings looks wet, pink, and alive; travelers have reported the sensation of a cave breathing around them
+
+---
+
+### Palatine
+**Anatomy root:** Palate (roof of the mouth)
+**Method:** Cavity Expansion
+**Developmental lineage:** Wet cave and fungal-grove environments with sustained humidity and insect-population pressure; upper mouth tissue expands into a vaulted chamber used as a feeding trap
+**Habitat:** Wet caves, fungal groves, humid sinkholes
+**Scale:** Human-sized (hanging) to room-sized (mature)
+**Feeding:** Hangs inverted; secretes sweet-smelling moisture to attract small creatures; prey enters the mouth-vault and becomes adhered to the mucosal surface; slow dissolution
+**Ecological role:** Ambush filter-feeder; clears insect and spore populations; prey enters willingly
+**Threat level:** Predatory (passive; relies on attraction not pursuit)
+**Known regional variants:** Sinkhole variants (wider chamber, larger prey capacity)
+**Unconfirmed reports:** The sweet secretion has been sampled by human explorers and caused significant disorientation; whether this is chemical defense or incidental is not established
+
+---
+
 ## Soft-Tissue / Dermal Forms
 
 ---
@@ -313,6 +461,34 @@
 **Threat level:** Environmental
 **Known regional variants:** Urban Veinwalkers adapted to plumbing infrastructure; documented post-breach
 **Unconfirmed reports:** Veinwalker networks that connect between individual organisms; whether these form a local Choir-like communication system is under study
+
+---
+
+### Tendrilisk
+**Anatomy root:** Tendons, ligaments, and fascia
+**Method:** Connective-Tissue Dominance
+**Developmental lineage:** Dense forest and ruin environments with sustained tension-and-anchor pressure; bones reduce while tendon structures overdevelop into long pale anchoring cords; body is pulled through the environment by contracting these lines
+**Habitat:** Dense forests, old machinery, hanging ruins, root-choked ravines
+**Scale:** Dog-sized core body (variable); tendon strands may extend across entire groves
+**Feeding:** Builds tension traps; strands resemble roots or old wires; when touched, cords contract and drag prey into the central mass
+**Ecological role:** Living snare; reshapes movement routes for all land creatures in its territory
+**Threat level:** Predatory
+**Known regional variants:** Industrial variants adapted to metal frameworks and cable infrastructure (documented post-breach)
+**Unconfirmed reports:** The original face of a mature Tendrilisk may remain somewhere near the center mass, half-buried in folds
+
+---
+
+### Cuticle
+**Anatomy root:** Cuticle (eponychium / nail-fold tissue)
+**Method:** Dermal Spread
+**Developmental lineage:** Parasitic environments; skin-fold and surface-adjacent pressure causes peeling dermal tissue to become independently motile and invasive
+**Habitat:** Under bark, armor plates, or the skin-folds of larger Stem adults; medical waste sites
+**Scale:** Thumbnail-sized to palm-sized
+**Feeding:** Peels and absorbs dead tissue; at low density functions as a cleaner organism; at high density becomes invasive and feeds on living tissue
+**Ecological role:** Decomposer at low density; pathogen at high density; a Stem visibly covered in Cuticles is usually sick, old, or dying
+**Threat level:** Passive individually; Environmental in infestations
+**Known regional variants:** None confirmed
+**Unconfirmed reports:** Cuticle colonies have been observed migrating between hosts; whether they select hosts based on health state is not established
 
 ---
 
@@ -361,6 +537,34 @@
 **Threat level:** Apex
 **Known regional variants:** None confirmed
 **Unconfirmed reports:** Looking at the full back-pattern from above causes navigational disorientation lasting hours to days. Multiple independent reports.
+
+---
+
+### Atlas Maw
+**Anatomy root:** Atlas vertebra (C1, uppermost cervical)
+**Method:** Ossification
+**Developmental lineage:** Collapsed mountain and high-load environments sustained over extreme duration; neck and shoulder structures develop to bear impossible compressive loads; entire body reorganizes around load-bearing
+**Habitat:** Collapsed mountain regions, structural ruins, underground caverns large enough to contain them
+**Scale:** Titan-class; valley-floor to city-block scale
+**Feeding:** Unknown at full scale; geological nutrient absorption presumed
+**Ecological role:** Load-bearing titan; its presence stabilizes terrain by occupying collapsed and compressed spaces
+**Threat level:** Environmental
+**Known regional variants:** None confirmed at this scale
+**Unconfirmed reports:** Old myths claim some mountain passes are actually gaps beneath a sleeping Atlas Maw's raised body. Some geological surveys have found structural anomalies consistent with a living organism under major mountain formations.
+
+---
+
+### Marrowdeep
+**Anatomy root:** Bone marrow
+**Method:** Ossification
+**Developmental lineage:** Cold underground environments with extreme mineral-starvation pressure sustained over decades; internal marrow density increases to extraordinary levels while exterior structure remains pale and seemingly soft
+**Habitat:** Under frozen ground, deep cave systems, ancient burial sites
+**Scale:** Subterranean leviathan; surface disturbances (forests leaning in waves) are the primary evidence of movement
+**Feeding:** Minerals, roots, buried dead matter; does not surface to hunt
+**Ecological role:** Subsurface geological processor; forests above Marrowdeep territory show slow decline and lateral lean as the creature moves beneath them
+**Threat level:** Environmental
+**Known regional variants:** None confirmed
+**Unconfirmed reports:** When a Marrowdeep moves underground, forests above it lean in waves. Several forest regions showing unexplained directional lean have been flagged for investigation.
 
 ---
 

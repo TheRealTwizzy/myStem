@@ -170,13 +170,18 @@ The documentation is being consolidated and improved. `REWRITE_SPECIFICATION.md`
 
 ## World-Building & Narrative Context
 
-The specification includes world-building elements that inform tone but are not currently codified in accessible documents:
+The specification includes world-building elements that inform tone:
 
 - **Project NEPHE-7** — Scientific research program at R-17 Adaptive Biosystems Laboratory (principal investigator: Dr. Elian Voss)
 - **Holloway Therapeutics** — Private biotech company that created Stemlings as therapy organisms
 - **The Choir** — Suspected collective intelligence connecting adult Stems (lore-level; not a mechanics feature)
 
-These elements appear in `MASTER_CANON_BIBLE.md` and `QUARANTINE_FIELD_MANUAL.md` as world-building flavor and narrative authority, but source documents (scientist logs, character backstories) are referenced but not included in this repo. **Use these references for narrative color and to understand the clinical-warm tone, but don't expect mechanical rules from them.**
+Source documents are now present in this repo:
+- **`SCIENTIST_LOGS_1.md`** — Dr. Elian Voss's primary NEPHE-7 research journal (entries .001–.074); empirical basis for the Biological Laws
+- **`SCIENTIST_LOGS_2.md`** — Supplemental NEPHE-7 logs (reproduction, communication, population dynamics, R-17 containment failure)
+- **`STEM_GOSPEL_TRILOGY.md`** — The Stem Gospel trilogy narrative outline (three stories; full character roster including Eli, Nini, Dr. Mara Vey, Jonas Pike, Rhea Sol)
+
+These provide narrative color and the empirical context behind the Biological Laws. They do not override PRD mechanics — they illustrate them.
 
 ## Document Conventions
 
